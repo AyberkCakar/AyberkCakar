@@ -3,7 +3,7 @@
 - 💻 I am anSoftware Engineer at **INNOVILE**
 - 💬 My Website: [**ayberkcakar.com**](https://ayberkcakar.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-ayberkcakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayberkcakar/)](https://www.linkedin.com/in/ismailsefa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ayberkcakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayberkcakar/)](https://www.linkedin.com/in/ayberkcakar/) 
 [![Gmail Badge](https://img.shields.io/badge/-ayberkcakar35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayberkcakar35@gmail.com)](mailto:ayberkcakar35@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayberkcakar)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayberkcakar/)
