@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I am a Software Engineer at **Supply Chain Wizard**
+- 💻 I am a Software Engineer at **SCW.AI by Supply Chain Wizard**
 - 💬 My Website: [**ayberkcakar.com**](https://ayberkcakar.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayberkcakar&label=Profile%20views&color=0e75b6&style=flat" alt="ayberkcakar" /> </p>
 
